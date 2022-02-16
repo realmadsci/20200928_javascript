@@ -12,7 +12,7 @@ function addStyle(url) {
     newSS.href='data:text/css,' + styles;
     document.getElementsByTagName("head")[0].appendChild(newSS);
 }
-addStyle('https://realmadsci.github.io/j/glitch.css');
+addStyle('https://j.rms.rip/glitch.css');
 addStyle('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
 
 // Inject body overlay and text
